@@ -1,6 +1,10 @@
 # GexSpriteRipTest
 The first successful print of gex video game player sprite from binary (GEX002.LEV)
 
+Windows 10 or Linux recommended.
+If you have older Windows 10 version (19H2 or older) run the program with --vt-force argument.
+Use raster fonts with 1:1 ratio if you can.
+
 # How To Read Binary Code
 * aligment map (89 03 85 04 84 04 ...)h
 
